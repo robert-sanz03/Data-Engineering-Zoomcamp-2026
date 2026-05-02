@@ -1,2 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data files
 *.parquet
-*.vscode
+*.csv.gz
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled artifacts
+a.out
+*.so
