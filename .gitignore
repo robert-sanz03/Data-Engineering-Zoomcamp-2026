@@ -26,3 +26,6 @@ Thumbs.db
 # Compiled artifacts
 a.out
 *.so
+
+# PostgreSQL data directory
+ny_taxi_postgres_data/
